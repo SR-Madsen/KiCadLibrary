@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ECS-5032MV-100-CN-TR
+D Standard Clock Oscillators 25MHz 1.8-3.3V 25ppm -40C +85C
+$ENDCMP
+#
+$CMP ECS-5032MV-250-CN-TR
+D Standard Clock Oscillators 25MHz 1.8-3.3V 25ppm -40C +85C
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,22 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 61202021621
+D Wurth Elektronik 612 Series, 2.54mm Pitch 20 Way 2 Row Straight PCB Header, Solder Termination, 3A
+$ENDCMP
+#
+$CMP 64600001003
+D Fuse Holder 5X20MM PC MNT
+F http://www.littelfuse.com/~/media/electronics/datasheets/fuse_blocks/littelfuse_fuse_block_646_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP M50-3600542R
+D HARWIN Archer M50, 1.27mm Pitch, 10 Way, 2 Row Unshrouded, Right Angle Pin Header, Surface Mount, Solder Termination
+F https://cdn.harwin.com/pdfs/M50-360R.pdf
+$ENDCMP
+#
+$CMP QSH-030-01-F-D-A-K-TR
+D .5MM DOUBLE ROW MI SOCKET ASSEMB
+F http://suddendocs.samtec.com/prints/qsh-xxx-01-x-d-xxx-mkt.pdf
+$ENDCMP
+#
+#End Doc Library

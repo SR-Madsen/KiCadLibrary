@@ -1,0 +1,42 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 150060SS55040
+D 2.4 V Red LED 1608 (0603)  SMD, Wurth Elektronik WL-SMCD 150060SS55040
+$ENDCMP
+#
+$CMP 150060VS55040
+D LED, 150060VS55040, Wurth Elektronik WL-SMCD 573 (Typ.) nm 0603 Diffused SMD package
+F https://katalog.we-online.com/led/datasheet/150060VS55040.pdf
+$ENDCMP
+#
+$CMP 150060YS55040
+D LED, 150060YS55040, Wurth Elektronik WL-SMCD 0603 Diffused SMD package
+F https://katalog.we-online.com/led/datasheet/150060VS55040.pdf
+$ENDCMP
+#
+$CMP BK1608HS601-T
+D TAIYO YUDEN - BK1608HS601-T - FERRITE BEAD, 0.45OHM, 350mA, 0603
+F https://componentsearchengine.com/Datasheets/2/BK1608HS601-T.pdf
+$ENDCMP
+#
+$CMP EFD_20_10_7
+D Ferrite Cores & Accessories COIL FORMER SUMIKON PM 9630
+F https://componentsearchengine.com//B66418W1008D1.pdf
+$ENDCMP
+#
+$CMP SRN6045TA-101M
+D fixed Inductor 100uH 0.82A Shielded
+F https://www.bourns.com/docs/Product-Datasheets/SRN6045TA.pdf
+$ENDCMP
+#
+$CMP SRR1208-821KL
+D Fixed Inductors 820uH 10% SMD 1208
+F https://www.mouser.dk/datasheet/2/54/srr1208-1391332.pdf
+$ENDCMP
+#
+$CMP YBS2207G_RAG
+D Bridge Rectifiers GlassPassivated 2.2A 1000V Bridge Rec.
+F https://componentsearchengine.com/Datasheets/1/YBS2207G RAG.pdf
+$ENDCMP
+#
+#End Doc Library
