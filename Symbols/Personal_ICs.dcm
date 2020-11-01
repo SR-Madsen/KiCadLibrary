@@ -5,9 +5,24 @@ D Solid State Relay 1.2 A dc Surface Mount, SPST-NO DC MOSFET
 F https://componentsearchengine.com/Datasheets/1/CPC1020N.pdf
 $ENDCMP
 #
+$CMP MYRGP100100B21RA
+D 1 V DC-DC Converter, 1 A Iout, 2.5 V to 5.5 Vin, high efficiency, SMD 1008
+F https://www.mouser.dk/datasheet/2/281/MYRGP-b-w-1701814.pdf
+$ENDCMP
+#
+$CMP MYRGP180100B21RA
+D 1.8 V DC-DC Converter, 1 A Iout, 2.5 V to 5.5 Vin, high efficiency, SMD 1008
+F https://www.mouser.dk/datasheet/2/281/MYRGP-b-w-1701814.pdf
+$ENDCMP
+#
 $CMP ST1S41PHR
 D Conv DC-DC 4V to 18V Step Down Single-Out 0.8V to 18V 4A 8-Pin HSOP EP T/R
 F https://www.st.com/resource/en/datasheet/st1s41.pdf
+$ENDCMP
+#
+$CMP STM32L412RBT6P
+D ARM Microcontrollers - MCU
+F https://www.mouser.dk/datasheet/2/389/stm32l412c8-1851177.pdf
 $ENDCMP
 #
 $CMP VIPER318HDTR
