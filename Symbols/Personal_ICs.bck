@@ -1,13 +1,12 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AT86RF232-ZX
+D 2.4 GHz ZigBee Transceiver, low-power, 1.8-3.6 Vin
+$ENDCMP
+#
 $CMP CPC1020N
 D Solid State Relay 1.2 A dc Surface Mount, SPST-NO DC MOSFET
 F https://componentsearchengine.com/Datasheets/1/CPC1020N.pdf
-$ENDCMP
-#
-$CMP MYRGP000100B21RA
-D 1 V DC-DC Converter, 1 A Iout, 2.5 V to 5.5 Vin, high efficiency, SMD 1008
-F https://www.mouser.dk/datasheet/2/281/MYRGP-b-w-1701814.pdf
 $ENDCMP
 #
 $CMP MYRGP100100B21RA
@@ -18,6 +17,11 @@ $ENDCMP
 $CMP MYRGP180100B21RA
 D 1.8 V DC-DC Converter, 1 A Iout, 2.5 V to 5.5 Vin, high efficiency, SMD 1008
 F https://www.mouser.dk/datasheet/2/281/MYRGP-b-w-1701814.pdf
+$ENDCMP
+#
+$CMP SHTC3
+D Humidity and Temperature Sensor IC
+F https://www.glynshop.com/erp/owweb/Daten/Datenblaetter/Sensirion/SHTC3.pdf
 $ENDCMP
 #
 $CMP ST1S41PHR
