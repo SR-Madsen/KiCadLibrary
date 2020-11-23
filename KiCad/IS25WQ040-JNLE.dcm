@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IS25WQ040-JNLE
+D NOR Flash Serial (SPI, Dual SPI, Quad SPI) 1.8V 4M-bit 512K x 8 8ns
+K
+F https://www.arrow.com/en/products/is25wq040-jnle/integrated-silicon-solution-inc
+$ENDCMP
+#
+#End Doc Library

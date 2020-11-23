@@ -14,9 +14,18 @@ D LED, 150060YS55040, Wurth Elektronik WL-SMCD 0603 Diffused SMD package
 F https://katalog.we-online.com/led/datasheet/150060VS55040.pdf
 $ENDCMP
 #
+$CMP 2450FB15L0001E
+D 2.45 GHz RF antenna balun with integrated filter
+$ENDCMP
+#
 $CMP BK1608HS601-T
 D TAIYO YUDEN - BK1608HS601-T - FERRITE BEAD, 0.45OHM, 350mA, 0603
 F https://componentsearchengine.com/Datasheets/2/BK1608HS601-T.pdf
+$ENDCMP
+#
+$CMP ECMF02-4CMX8
+D Common Mode Filter & ESD Prot. USB uQFN8 STMicroelectronics ECMF02 Series, Signal Filter uQFN SMD, Flat Contact Termination, 2.6 x 1.3 x 0.6mm
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/1c/93/cf/72/85/cf/4d/d6/DM00039389/files/DM00039389.pdf/jcr:content/translations/en.DM00039389.pdf
 $ENDCMP
 #
 $CMP EFD_20_10_7
