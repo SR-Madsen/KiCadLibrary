@@ -29,6 +29,11 @@ D 1.8 V DC-DC Converter, 1 A Iout, 2.5 V to 5.5 Vin, high efficiency, SMD 1008
 F https://www.mouser.dk/datasheet/2/281/MYRGP-b-w-1701814.pdf
 $ENDCMP
 #
+$CMP MYRGP330100B21RA
+D 3.3 V DC-DC Converter, 1 A Iout, 2.5 V to 5.5 Vin, high efficiency, SMD 1008
+F https://power.murata.com/pub/data/power/MYRGP-b-w.pdf
+$ENDCMP
+#
 $CMP SHT40-AD1B-R2
 D 4th Generation, High-Accuracy, Ultra Low Power, 16-Bit Relative Humidity and Temperature Sensor Platform
 F https://www.mouser.dk/datasheet/2/682/Sensirion_10272020_Datasheet_SHT4x-1919523.pdf
