@@ -4,6 +4,11 @@ $CMP AT86RF232-ZX
 D 2.4 GHz ZigBee Transceiver, low-power, 1.8-3.6 Vin
 $ENDCMP
 #
+$CMP CLRC66303HNY
+D NXP CLRC66303HNY Multi-Protocol NFC Frontend Transceiver
+F http://www.nxp.com/docs/en/data-sheet/SLRC610.pdf
+$ENDCMP
+#
 $CMP CPC1020N
 D Solid State Relay 1.2 A dc Surface Mount, SPST-NO DC MOSFET
 F https://componentsearchengine.com/Datasheets/1/CPC1020N.pdf
@@ -22,6 +27,11 @@ $ENDCMP
 $CMP MYRGP180100B21RA
 D 1.8 V DC-DC Converter, 1 A Iout, 2.5 V to 5.5 Vin, high efficiency, SMD 1008
 F https://www.mouser.dk/datasheet/2/281/MYRGP-b-w-1701814.pdf
+$ENDCMP
+#
+$CMP SHT40-AD1B-R2
+D 4th Generation, High-Accuracy, Ultra Low Power, 16-Bit Relative Humidity and Temperature Sensor Platform
+F https://www.mouser.dk/datasheet/2/682/Sensirion_10272020_Datasheet_SHT4x-1919523.pdf
 $ENDCMP
 #
 $CMP SHTC3
