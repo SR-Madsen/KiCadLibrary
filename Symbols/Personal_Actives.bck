@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ECS-271.2-10-37-AGN-TR
+D Standard Crystal Oscillator, 27.12MHz 25ppm 10pF -40C +85C
+F https://www.ecsxtal.com/store/pdf/ecx-1637.pdf
+$ENDCMP
+#
+$CMP ECS-271.2-10-37-CKM-TR
+D Crystals 27.12MHz 10ppm 10pF -20C +70C
+F https://www.ecsxtal.com/store/pdf/ecx-1637.pdf
+$ENDCMP
+#
 $CMP ECS-5032MV-100-CN-TR
 D Standard Clock Oscillators 25MHz 1.8-3.3V 25ppm -40C +85C
 $ENDCMP
