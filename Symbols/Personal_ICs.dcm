@@ -19,6 +19,11 @@ D NOR Flash Serial (SPI, Dual SPI, Quad SPI) 1.8V 4M-bit 512K x 8 8ns
 F https://www.arrow.com/en/products/is25wq040-jnle/integrated-silicon-solution-inc
 $ENDCMP
 #
+$CMP KSZ8081MNX
+D Ethernet ICs 10/100 BASE-TX MII Physical Layer Transceiver
+F https://componentsearchengine.com/Datasheets/1/KSZ8081MNXIA-TR.pdf
+$ENDCMP
+#
 $CMP MYRGP100100B21RA
 D 1 V DC-DC Converter, 1 A Iout, 2.5 V to 5.5 Vin, high efficiency, SMD 1008
 F https://www.mouser.dk/datasheet/2/281/MYRGP-b-w-1701814.pdf
