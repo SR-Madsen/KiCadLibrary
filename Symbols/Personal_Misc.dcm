@@ -24,4 +24,9 @@ D .5MM DOUBLE ROW MI SOCKET ASSEMB
 F http://suddendocs.samtec.com/prints/qsh-xxx-01-x-d-xxx-mkt.pdf
 $ENDCMP
 #
+$CMP RJMG1BD3B8K1ANR
+D RJ45 10/100 Ethernet connector with integrated magnetics, LEDs, and termination
+F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/rjmg1bd3b8k1anr.pdf
+$ENDCMP
+#
 #End Doc Library
