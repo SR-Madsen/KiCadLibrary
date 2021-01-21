@@ -24,6 +24,11 @@ D Ethernet ICs 10/100 BASE-TX MII Physical Layer Transceiver
 F https://componentsearchengine.com/Datasheets/1/KSZ8081MNXIA-TR.pdf
 $ENDCMP
 #
+$CMP MCIMX6Y2CVM08AB
+D The i.MX 6ULL SOC Processor is a high performance, ultra efficient processor family with featuring NXPs advanced implementation of the single Arm Cortex-A7 core, which operates at 900 MHz max.
+F http://www.nxp.com/docs/en/data-sheet/IMX6ULLIEC.pdf
+$ENDCMP
+#
 $CMP MYRGP100100B21RA
 D 1 V DC-DC Converter, 1 A Iout, 2.5 V to 5.5 Vin, high efficiency, SMD 1008
 F https://www.mouser.dk/datasheet/2/281/MYRGP-b-w-1701814.pdf
