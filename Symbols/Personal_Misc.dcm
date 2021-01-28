@@ -25,8 +25,9 @@ F http://suddendocs.samtec.com/prints/qsh-xxx-01-x-d-xxx-mkt.pdf
 $ENDCMP
 #
 $CMP RJMG1BD3B8K1ANR
-D RJ45 10/100 Ethernet connector with integrated magnetics, LEDs, and termination
-F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/rjmg1bd3b8k1anr.pdf
+D 1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX
+K RJ45 Magjack
+F https://www.amphenolcanada.com/ProductSearch/Drawings/AC/RJMG1BD3B8K1ANR.PDF
 $ENDCMP
 #
 #End Doc Library
