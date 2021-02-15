@@ -33,6 +33,11 @@ D Ferrite Cores & Accessories COIL FORMER SUMIKON PM 9630
 F https://componentsearchengine.com//B66418W1008D1.pdf
 $ENDCMP
 #
+$CMP PESD12VA-SFYL
+D PESD12VA-SF - Ultra small 12 V ESD protection device
+F https://assets.nexperia.com/documents/data-sheet/PESD12VA-SF.pdf
+$ENDCMP
+#
 $CMP SRN6045TA-101M
 D fixed Inductor 100uH 0.82A Shielded
 F https://www.bourns.com/docs/Product-Datasheets/SRN6045TA.pdf

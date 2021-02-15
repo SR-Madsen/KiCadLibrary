@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AP62301WU-7
+D Switching Voltage Regulators DCDC Conv HV Buck TSOT26 T&R 3K
+F https://4donline.ihs.com/images/VipMasterIC/IC/DIOD/DIOD-S-A0009865523/DIOD-S-A0010061831-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0
+$ENDCMP
+#
 $CMP AT86RF232-ZX
 D 2.4 GHz ZigBee Transceiver, low-power, 1.8-3.6 Vin
 $ENDCMP
@@ -27,6 +32,16 @@ $ENDCMP
 $CMP MCIMX6Y2CVM08AB
 D The i.MX 6ULL SOC Processor is a high performance, ultra efficient processor family with featuring NXPs advanced implementation of the single Arm Cortex-A7 core, which operates at 900 MHz max.
 F http://www.nxp.com/docs/en/data-sheet/IMX6ULLIEC.pdf
+$ENDCMP
+#
+$CMP MCP112T-315E_LB
+D Microchip MCP112T-315E/LB, Voltage Supervisor 3.003  3.157 V, 3-Pin SC-70
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001889F.pdf
+$ENDCMP
+#
+$CMP MT41K128M16JT-125_K
+D SDRAM - DDR3L Memory IC 2Gb (128M x 16) Parallel 800MHz 13.75ns 96-FBGA (8x14)
+F http://www.micron.com/~/media/documents/products/data-sheet/dram/ddr3/2gb_1_35v_ddr3l.pdf
 $ENDCMP
 #
 $CMP MYRGP100100B21RA
