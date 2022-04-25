@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP +3.3V
+D Power symbol creates a global label with name "+3.3V"
+K power-flag
+$ENDCMP
+#
+$CMP +3V3_USB
+D Power symbol creates a global label with name "+3V3_USB"
+K power-flag
+$ENDCMP
+#
 $CMP 10118194-0001LF
 D Amphenol SMD micro-USB type B connector
 F None
