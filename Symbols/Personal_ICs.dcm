@@ -79,11 +79,6 @@ D ARM Microcontrollers - MCU
 F https://www.mouser.dk/datasheet/2/389/stm32l412c8-1851177.pdf
 $ENDCMP
 #
-$CMP TFP410PAP
-D 165-MHz TMDS DVI transmitter/serializer &  Panelbus integrated circuit
-F http://www.ti.com/lit/ds/symlink/tfp410.pdf
-$ENDCMP
-#
 $CMP VIPER318HDTR
 D Switching Voltage Regulators Energy Saving Off-line High Voltage Converter
 F https://www.mouser.dk/datasheet/2/389/dm00695734-1862067.pdf

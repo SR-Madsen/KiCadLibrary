@@ -10,9 +10,19 @@ D Power symbol creates a global label with name "+3V3_USB"
 K power-flag
 $ENDCMP
 #
+$CMP +5V_USB
+D Power symbol creates a global label with name "+5V_USB"
+K power-flag
+$ENDCMP
+#
 $CMP 10118194-0001LF
 D Amphenol SMD micro-USB type B connector
 F None
+$ENDCMP
+#
+$CMP 502570-0893
+D Memory Card Connectors MICRO SD CARD CONN NORM SMT PUSH-PUSH
+F https://componentsearchengine.com/Datasheets/2/502570-0893.pdf
 $ENDCMP
 #
 $CMP 61202021621

@@ -1,12 +1,47 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AP62301WU-7
+D Switching Voltage Regulators DCDC Conv HV Buck TSOT26 T&R 3K
+F https://4donline.ihs.com/images/VipMasterIC/IC/DIOD/DIOD-S-A0009865523/DIOD-S-A0010061831-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0
+$ENDCMP
+#
 $CMP AT86RF232-ZX
 D 2.4 GHz ZigBee Transceiver, low-power, 1.8-3.6 Vin
+$ENDCMP
+#
+$CMP CLRC66303HNY
+D NXP CLRC66303HNY Multi-Protocol NFC Frontend Transceiver
+F http://www.nxp.com/docs/en/data-sheet/SLRC610.pdf
 $ENDCMP
 #
 $CMP CPC1020N
 D Solid State Relay 1.2 A dc Surface Mount, SPST-NO DC MOSFET
 F https://componentsearchengine.com/Datasheets/1/CPC1020N.pdf
+$ENDCMP
+#
+$CMP IS25WQ040-JNLE
+D NOR Flash Serial (SPI, Dual SPI, Quad SPI) 1.8V 4M-bit 512K x 8 8ns
+F https://www.arrow.com/en/products/is25wq040-jnle/integrated-silicon-solution-inc
+$ENDCMP
+#
+$CMP KSZ8081MNX
+D Ethernet ICs 10/100 BASE-TX MII Physical Layer Transceiver
+F https://componentsearchengine.com/Datasheets/1/KSZ8081MNXIA-TR.pdf
+$ENDCMP
+#
+$CMP MCIMX6Y2CVM08AB
+D The i.MX 6ULL SOC Processor is a high performance, ultra efficient processor family with featuring NXPs advanced implementation of the single Arm Cortex-A7 core, which operates at 900 MHz max.
+F http://www.nxp.com/docs/en/data-sheet/IMX6ULLIEC.pdf
+$ENDCMP
+#
+$CMP MCP112T-315E_LB
+D Microchip MCP112T-315E/LB, Voltage Supervisor 3.003  3.157 V, 3-Pin SC-70
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001889F.pdf
+$ENDCMP
+#
+$CMP MT41K128M16JT-125_K
+D SDRAM - DDR3L Memory IC 2Gb (128M x 16) Parallel 800MHz 13.75ns 96-FBGA (8x14)
+F http://www.micron.com/~/media/documents/products/data-sheet/dram/ddr3/2gb_1_35v_ddr3l.pdf
 $ENDCMP
 #
 $CMP MYRGP100100B21RA
@@ -17,6 +52,16 @@ $ENDCMP
 $CMP MYRGP180100B21RA
 D 1.8 V DC-DC Converter, 1 A Iout, 2.5 V to 5.5 Vin, high efficiency, SMD 1008
 F https://www.mouser.dk/datasheet/2/281/MYRGP-b-w-1701814.pdf
+$ENDCMP
+#
+$CMP MYRGP330100B21RA
+D 3.3 V DC-DC Converter, 1 A Iout, 2.5 V to 5.5 Vin, high efficiency, SMD 1008
+F https://power.murata.com/pub/data/power/MYRGP-b-w.pdf
+$ENDCMP
+#
+$CMP SHT40-AD1B-R2
+D 4th Generation, High-Accuracy, Ultra Low Power, 16-Bit Relative Humidity and Temperature Sensor Platform
+F https://www.mouser.dk/datasheet/2/682/Sensirion_10272020_Datasheet_SHT4x-1919523.pdf
 $ENDCMP
 #
 $CMP SHTC3
@@ -32,6 +77,11 @@ $ENDCMP
 $CMP STM32L412RBT6P
 D ARM Microcontrollers - MCU
 F https://www.mouser.dk/datasheet/2/389/stm32l412c8-1851177.pdf
+$ENDCMP
+#
+$CMP TFP410PAP
+D 165-MHz TMDS DVI transmitter/serializer &  Panelbus integrated circuit
+F http://www.ti.com/lit/ds/symlink/tfp410.pdf
 $ENDCMP
 #
 $CMP VIPER318HDTR
