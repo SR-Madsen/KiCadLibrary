@@ -59,6 +59,11 @@ D 3.3 V DC-DC Converter, 1 A Iout, 2.5 V to 5.5 Vin, high efficiency, SMD 1008
 F https://power.murata.com/pub/data/power/MYRGP-b-w.pdf
 $ENDCMP
 #
+$CMP S34ML01G200BHI000
+D NAND Flash 1Gb, 3V, 25ns NAND Flash
+F https://www.mouser.co.uk/datasheet/2/980/Cypress_S34ML01G200BHI000_Datasheet-2508918.pdf
+$ENDCMP
+#
 $CMP SHT40-AD1B-R2
 D 4th Generation, High-Accuracy, Ultra Low Power, 16-Bit Relative Humidity and Temperature Sensor Platform
 F https://www.mouser.dk/datasheet/2/682/Sensirion_10272020_Datasheet_SHT4x-1919523.pdf
