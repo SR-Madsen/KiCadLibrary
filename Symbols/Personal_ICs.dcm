@@ -89,4 +89,9 @@ D Switching Voltage Regulators Energy Saving Off-line High Voltage Converter
 F https://www.mouser.dk/datasheet/2/389/dm00695734-1862067.pdf
 $ENDCMP
 #
+$CMP WF200D
+D WF200 802.11bgn NCP, 4x4 QFN32
+F https://www.silabs.com/documents/public/data-sheets/wf200-datasheet.pdf
+$ENDCMP
+#
 #End Doc Library

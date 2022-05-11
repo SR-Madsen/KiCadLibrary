@@ -6,7 +6,7 @@ F https://www.ecsxtal.com/store/pdf/ecx-1637.pdf
 $ENDCMP
 #
 $CMP ECS-5032MV-100-CN-TR
-D Standard Clock Oscillators 25MHz 1.8-3.3V 25ppm -40C +85C
+D Standard Clock Oscillators 10MHz 1.8-3.3V 25ppm -40C +85C
 $ENDCMP
 #
 $CMP ECS-5032MV-250-CN-TR
