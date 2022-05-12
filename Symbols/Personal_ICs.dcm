@@ -29,6 +29,11 @@ D Ethernet ICs 10/100 BASE-TX MII Physical Layer Transceiver
 F https://componentsearchengine.com/Datasheets/1/KSZ8081MNXIA-TR.pdf
 $ENDCMP
 #
+$CMP KSZ8081RNB
+D Micrel KSZ8081RNB, IEEE 802.3 Physical Layer Transceiver, 3.3 V, 32-Pin QFN
+F http://ww1.microchip.com/downloads/en/devicedoc/ksz8081mnx-rnb.pdf
+$ENDCMP
+#
 $CMP MCIMX6Y2CVM08AB
 D The i.MX 6ULL SOC Processor is a high performance, ultra efficient processor family with featuring NXPs advanced implementation of the single Arm Cortex-A7 core, which operates at 900 MHz max.
 F http://www.nxp.com/docs/en/data-sheet/IMX6ULLIEC.pdf

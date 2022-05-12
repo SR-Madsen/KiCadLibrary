@@ -29,6 +29,16 @@ D Ethernet ICs 10/100 BASE-TX MII Physical Layer Transceiver
 F https://componentsearchengine.com/Datasheets/1/KSZ8081MNXIA-TR.pdf
 $ENDCMP
 #
+$CMP KSZ8081RNB
+D Micrel KSZ8081RNB, IEEE 802.3 Physical Layer Transceiver, 3.3 V, 32-Pin QFN
+F http://ww1.microchip.com/downloads/en/devicedoc/ksz8081mnx-rnb.pdf
+$ENDCMP
+#
+$CMP KSZ8081RNBCA_TR
+D Micrel KSZ8081RNBCA TR, IEEE 802.3 Physical Layer Transceiver, 3.3 V, 32-Pin QFN
+F http://ww1.microchip.com/downloads/en/devicedoc/ksz8081mnx-rnb.pdf
+$ENDCMP
+#
 $CMP MCIMX6Y2CVM08AB
 D The i.MX 6ULL SOC Processor is a high performance, ultra efficient processor family with featuring NXPs advanced implementation of the single Arm Cortex-A7 core, which operates at 900 MHz max.
 F http://www.nxp.com/docs/en/data-sheet/IMX6ULLIEC.pdf
@@ -59,6 +69,11 @@ D 3.3 V DC-DC Converter, 1 A Iout, 2.5 V to 5.5 Vin, high efficiency, SMD 1008
 F https://power.murata.com/pub/data/power/MYRGP-b-w.pdf
 $ENDCMP
 #
+$CMP S34ML01G200BHI000
+D NAND Flash 1Gb, 3V, 25ns NAND Flash
+F https://www.mouser.co.uk/datasheet/2/980/Cypress_S34ML01G200BHI000_Datasheet-2508918.pdf
+$ENDCMP
+#
 $CMP SHT40-AD1B-R2
 D 4th Generation, High-Accuracy, Ultra Low Power, 16-Bit Relative Humidity and Temperature Sensor Platform
 F https://www.mouser.dk/datasheet/2/682/Sensirion_10272020_Datasheet_SHT4x-1919523.pdf
@@ -79,14 +94,14 @@ D ARM Microcontrollers - MCU
 F https://www.mouser.dk/datasheet/2/389/stm32l412c8-1851177.pdf
 $ENDCMP
 #
-$CMP TFP410PAP
-D 165-MHz TMDS DVI transmitter/serializer &  Panelbus integrated circuit
-F http://www.ti.com/lit/ds/symlink/tfp410.pdf
-$ENDCMP
-#
 $CMP VIPER318HDTR
 D Switching Voltage Regulators Energy Saving Off-line High Voltage Converter
 F https://www.mouser.dk/datasheet/2/389/dm00695734-1862067.pdf
+$ENDCMP
+#
+$CMP WF200D
+D WF200 802.11bgn NCP, 4x4 QFN32
+F https://www.silabs.com/documents/public/data-sheets/wf200-datasheet.pdf
 $ENDCMP
 #
 #End Doc Library
